@@ -1,7 +1,7 @@
 # Bella Nails — Studio Paznokci
 
 Strona-wizytówka dla fikcyjnego studia paznokci **Bella Nails** w Warszawie (Mokotów).
-Projekt stworzony jako element portfolio [stronainternetowa.biz](https://stronainternetowa.biz).
+Projekt stworzony jako element portfolio [100strona.pl](https://100strona.pl).
 
 ## Styl wizualny
 
